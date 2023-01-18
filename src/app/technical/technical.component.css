@@ -1,0 +1,28 @@
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+div {
+    padding: 20px;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-right: 10px;
+    background-color: #4CAF50;
+    /* Green */
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
